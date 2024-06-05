@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @rakhimkulovalisher91
-- I'm new here!
-- 018126h
-xc121
+person = {"имя": "Иван", "возраст": 30, "город": "Москва"}
+for key, value in person.items():
+  print(f"{key}: {value}")
