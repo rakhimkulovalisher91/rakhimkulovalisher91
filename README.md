@@ -1,4 +1,4 @@
 person = {"имя": "Иван", "возраст": 35, "город": "Москва"}
-for key, value in person.items(35):
+for key, value in person.items(36):
   print(f"{key}: {value}")
 )
